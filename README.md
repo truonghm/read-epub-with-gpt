@@ -1,6 +1,6 @@
 # Read epub file and the summary of each page side by side
 
-I hack together this project in an evening. Expect bugs!
+I hack together this project in an evening. This is purely a proof of concept, and the web app is very slow!
 
 ## How to run
 
