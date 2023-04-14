@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "readwithme"
+version = "0.1.0"
+description = ""
+authors = ["truonghm"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "~3.10"
+streamlit = "^1.21.0"
+EbookLib = "^0.18"
+beautifulsoup4 = "^4.12.2"
+openai = "^0.27.4"
+python-dotenv = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
